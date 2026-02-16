@@ -1,1 +1,1 @@
-console.log('This is a sample addition for troubleshooting.');
+console.log('This is a sample file for PR demo.');
